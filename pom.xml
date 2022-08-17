@@ -71,6 +71,7 @@
                         <warName>ROOT</warName>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
+
                 </plugin>
                 <plugin>
                     <groupId>org.springframework.boot</groupId>
